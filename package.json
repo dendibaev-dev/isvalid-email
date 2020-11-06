@@ -1,0 +1,25 @@
+{
+  "name": "isvalid-email",
+  "version": "1.0.0",
+  "description": "Validate email address",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dendibaev-dev/isvalid-email.git"
+  },
+  "keywords": [
+    "validate",
+    "email",
+    "email-validate",
+    "validator"
+  ],
+  "author": "Dendibaev Arman",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dendibaev-dev/isvalid-email/issues"
+  },
+  "homepage": "https://github.com/dendibaev-dev/isvalid-email#readme"
+}
