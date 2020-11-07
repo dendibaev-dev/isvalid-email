@@ -1,6 +1,6 @@
 {
-  "name": "isvalid-email",
-  "version": "1.0.0",
+  "name": "@dendibaev/isvalid-email",
+  "version": "1.0.1",
   "description": "Validate email address",
   "main": "index.js",
   "scripts": {
